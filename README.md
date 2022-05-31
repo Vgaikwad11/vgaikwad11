@@ -1,9 +1,8 @@
 ### Hi Developers  👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-WebMaster-red)](https://www.youtube.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-Vikas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikas-gaikwad-93865185/)](https://www.linkedin.com/in/vikas-gaikwad-93865185/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Vikas-green)](https://vgaikwad11.github.io/profile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Vikas-yellow)](https://stackoverflow.com/users/19238924/vgaikwad)
+[![Linkedin Badge](https://img.shields.io/badge/-Vikas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikas-gaikwad-93865185/)](https://www.linkedin.com/in/vikas-gaikwad-93865185/)
 
 I'm <b>Front-End Web Developer</b>, The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include design (working closely with designers), front-end web development ( Angular 8,9,10, WordPress, HTML5, CSS3, SASS, Bootstrap, Javascript, Jquery, AJAX Responsive and so more..)
 
